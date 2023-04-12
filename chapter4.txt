@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is chapter4 in main branch
+=======
+this is chapter4
+>>>>>>> new_branch
